@@ -1,2 +1,2 @@
 config:
-  info: master create repo,please Configuration info ,environment is dev， version 3.0.
+  info: "master create repo,please Configuration info ,environment is dev,version=5"
